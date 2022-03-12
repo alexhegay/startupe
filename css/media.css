@@ -1,0 +1,19 @@
+@media (max-width:768px){
+    h1{
+        font-size: 48px;
+    }
+    h2{
+        font-size: 30px;
+    }
+}
+@media (max-width:425px){
+    h1{
+        font-size: 32px;
+    }
+    h2{
+        font-size: 28px;
+    }
+    .about-campany img{
+        width:100% ;
+    }
+}
